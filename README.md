@@ -50,6 +50,11 @@ Then open the project in your browser or run it with your preferred local develo
 └── assets/
 ```
 
+## Gantt Chart
+```
+https://docs.google.com/spreadsheets/d/1FSCenzRKi__zcb1Tutzg19eN3NdzeT2SuXvPAgWfyO0/edit?usp=sharing
+```
+
 ## License
 
 This project is for personal portfolio use.
