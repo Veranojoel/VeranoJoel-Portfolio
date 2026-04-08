@@ -50,10 +50,9 @@ Then open the project in your browser or run it with your preferred local develo
 └── assets/
 ```
 
-## Gantt Chart
-```
-https://docs.google.com/spreadsheets/d/1FSCenzRKi__zcb1Tutzg19eN3NdzeT2SuXvPAgWfyO0/edit?usp=sharing
-```
+## Project Timeline
+
+View the full Gantt chart here: [Gantt Chart / Google Sheet](https://shorturl.at/cD8EU)
 
 ## License
 
