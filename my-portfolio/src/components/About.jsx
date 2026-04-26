@@ -11,26 +11,30 @@ export default function About() {
           <img src={profileImage} alt="Joel Verano" className="profile-image" />
           <div className="about-text">
             <p>
-              I'm a calm, professional full-stack developer and UI/UX designer
-              with a passion for creating beautiful and functional web
-              experiences. I believe in clean code, intuitive design, and
-              user-centered development.
+              An aspiring developer with hands-on experience in frontend
+              development, prototyping, and collaborative project delivery.
+              Focused on building reliable, usercentered solutions while
+              applying practical skills in real world settings. Recognized for
+              strong communication and consistent contributions to efficient,
+              well-organized teams.
             </p>
             <p>
-              With expertise in modern web technologies like React, Node.js, and
-              responsive design, I help businesses bring their ideas to life.
-              Whether you're looking for a developer or designer, I'm here to
-              turn your vision into reality.
+              With a growing interest in modern web technologies like React,
+              Node.js, and responsive design. I’m focused on building my skills
+              and creating websites that are both functional and user-friendly.
+              Whether I’m learning new tools or working on projects, I enjoy
+              turning ideas into simple and effective digital experiences.
             </p>
             <div className="skills">
               <h3>Key Skills</h3>
               <div className="skills-list">
-                <span className="skill">React</span>
-                <span className="skill">JavaScript</span>
-                <span className="skill">Node.js</span>
-                <span className="skill">CSS / Responsive Design</span>
-                <span className="skill">UI/UX Design</span>
-                <span className="skill">MongoDB</span>
+                <span className="skill">Project Coordination</span>
+                <span className="skill">Interface Prototyping</span>
+                <span className="skill">Basic Software Documentation</span>
+                <span className="skill">Version Control Collaboration</span>
+                <span className="skill">
+                  Clear and Structured communication
+                </span>
               </div>
             </div>
           </div>

@@ -115,20 +115,20 @@ export default function Contact() {
           <h3>Connect With Me</h3>
           <div className="social-icons">
             <a
-              href="https://linkedin.com/in/yourprofile"
+              href="https://www.linkedin.com/in/joel-verano-82b705374/"
               target="_blank"
               rel="noopener noreferrer"
             >
               LinkedIn
             </a>
             <a
-              href="https://github.com/VeranojoelProvide"
+              href="https://github.com/Veranojoel"
               target="_blank"
               rel="noopener noreferrer"
             >
               GitHub
             </a>
-            <a href="mailto:your@email.com">Email</a>
+            <a href="mailto:veranojoel16@gmail.com">Email</a>
           </div>
         </div>
       </div>

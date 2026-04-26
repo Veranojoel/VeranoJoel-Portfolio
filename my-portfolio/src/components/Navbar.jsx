@@ -43,6 +43,11 @@ export default function Navbar() {
             </a>
           </li>
           <li>
+            <a href="#techstack" onClick={closeMenu}>
+              Tech Stack
+            </a>
+          </li>
+          <li>
             <a href="#contact" onClick={closeMenu}>
               Contact
             </a>
