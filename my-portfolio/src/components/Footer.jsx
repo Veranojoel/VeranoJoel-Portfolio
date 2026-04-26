@@ -8,7 +8,6 @@ export default function Footer() {
     <footer className="footer">
       <div className="container">
         <p>&copy; {currentYear} Joel Verano. All rights reserved.</p>
-        <p>Crafted with ❤️ using React & Vite</p>
       </div>
     </footer>
   );

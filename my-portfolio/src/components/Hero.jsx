@@ -5,9 +5,12 @@ export default function Hero() {
     <section id="home" className="hero">
       <div className="container">
         <h1>Hi, I'm Joel</h1>
-        <p className="hero-subtitle">Full Stack Developer & UI/UX Designer</p>
+        <p className="hero-subtitle">
+          Aspiring Full Stack Developer & UI/UX Designer
+        </p>
         <p className="hero-description">
-          Building beautiful, functional web experiences
+          Building user centered web applications with a focus on clean design
+          and seamless user experience.
         </p>
         <a href="#projects" className="btn">
           View My Work
